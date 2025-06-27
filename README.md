@@ -52,7 +52,7 @@ This tool can assist HR teams in identifying potential employee churn and taking
    git clone https://github.com/dhruvPrajapati13/Employee-Attrition-Prediction.git
 
 2. Create Virtual Environment (Optional)
-- python -m venv venv**
+- python -m venv venv
 - source venv/bin/activate  # On Windows: venv\Scripts\activate**
 
 3. Install Dependencies
