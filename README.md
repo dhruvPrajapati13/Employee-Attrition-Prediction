@@ -3,7 +3,7 @@
 Employee attrition happens when an employee leaves an organization for any reason and is not replaced for a long time
 This is a machine learning project where I built a simple web app to predict whether an employee is likely to leave their job, based on various input features. The project was created to learn and apply concepts like preprocessing, model training, and deploying a model using Flask.
 
-# Dataset
+# 📁Dataset
 This project uses the IBM HR Analytics Employee Attrition & Performance Dataset from Kaggle.
 
 Rows: 1,470 employees
