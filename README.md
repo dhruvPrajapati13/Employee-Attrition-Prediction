@@ -52,14 +52,14 @@ This tool can assist HR teams in identifying potential employee churn and taking
    git clone https://github.com/dhruvPrajapati13/Employee-Attrition-Prediction.git
 
 2. Create Virtual Environment (Optional)
-**python -m venv venv**
-**source venv/bin/activate  # On Windows: venv\Scripts\activate**
+- **python -m venv venv**
+- **source venv/bin/activate  # On Windows: venv\Scripts\activate**
 
 3. Install Dependencies
-**pip install -r requirements.txt**
+- **pip install -r requirements.txt**
 
 4. Start the Flask App
-**python app.py**
+- **python app.py**
 
 5. Open in Browser
 http://127.0.0.1:5000/
